@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Flujos de control/Flujos de control.iml" filepath="$PROJECT_DIR$/../Flujos de control/Flujos de control.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hola_mundo.iml" filepath="$PROJECT_DIR$/Hola_mundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Operadores/Operadores.iml" filepath="$PROJECT_DIR$/../Operadores/Operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/../cadenas/cadenas.iml" filepath="$PROJECT_DIR$/../cadenas/cadenas.iml" />
     </modules>
   </component>
